@@ -1,6 +1,4 @@
 <div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Insane%20iOS%20Developer&fontSize=80&fontAlignY=35)
 </br>
 
 ## 💪 Skills
